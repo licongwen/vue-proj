@@ -2,6 +2,8 @@
 
 > a record of learning vue
 
+## 在Doc文件夹里面有对vue源码的部分学习笔记
+
 ## Build Setup
 
 ``` bash
